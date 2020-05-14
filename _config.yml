@@ -1,11 +1,11 @@
 # Site settings
-author: PARDEEP KAUR
-title: 
+author: Pardeep Kaur
+title: Software Development 
 header-img: img/home-bg.png
 email: pkaur84@aol.com
-copyright_name: PARDEEP KAUR
+copyright_name: Pardeep Kaur
 description: > # this means to ignore newlines until "baseurl:"
-  
+  'Why did i decide to learn software development'.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pardeep942
